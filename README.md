@@ -1,3 +1,4 @@
+
 # Lab 1 – Introduction to Digital Forensics using Autopsy
 
 ##  Objective
@@ -10,4 +11,8 @@ This lab demonstrates basic digital forensic skills using Autopsy software to an
 - Tagged evidence files
 - Searched for keywords related to the suspect ("George")
 - Exported and saved report files
+
+
+# forensics_lab
+digital forensic lab practice.
 
